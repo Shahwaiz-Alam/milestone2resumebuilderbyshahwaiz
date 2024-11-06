@@ -107,24 +107,4 @@ button:hover {
         font-size: 16px;
     }
 }
- #resumeOutput {
-    max-width: 600px;
-    margin: auto ;
-    padding: 20px;
-    border: 2px solid #2980b9; 
-    border-radius: 12px; 
-    background: linear-gradient(135deg, #ffffff 0%, #e0f7fa 100%);
-    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2); 
-    transition: transform 0.3s, box-shadow 0.3s; 
-}
-
-#resumeOutput:hover {
-    transform: translateY(-5px); 
-    box-shadow: 0 12px 60px rgba(0, 0, 0, 0.3);
-}
-
-#resumeOutput h2 {
-    color: #2980b9; 
-    margin-bottom: 10px; 
-    
-}
+ 
